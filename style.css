@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(35, 241, 241);
+    border: 60px;
+}
+button{
+    width: 200px;
+    background-color: rgb(6, 26, 18);
+    border:90px;
+    border-radius: 20px;
+    padding: 30px;
+    font-size:30px;
+}
